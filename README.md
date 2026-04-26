@@ -1,6 +1,7 @@
 # Reproducibility Study: HyperKGR (EMNLP'25)
 
 This repository contains my reproducibility study for the paper **HyperKGR: Knowledge Graph Reasoning in Hyperbolic Space with Graph Neural Network Encoding Symbolic Path** (EMNLP 2025).
+
 Credit for the original ideas and framework fully belongs to the original authors: https://github.com/lihuiliullh/HyperKGR
 
 The paper file used in this study:
